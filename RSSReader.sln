@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSReader.Droid", "RSSReader.Droid\RSSReader.Droid.csproj", "{6705C063-71F7-455C-8DA8-1D80885BC8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSReader.iOS", "RSSReader.iOS\RSSReader.iOS.csproj", "{86764449-7F64-46F3-A4CF-D94F9F06FAC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Release|iPhone.Build.0 = Release|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{6705C063-71F7-455C-8DA8-1D80885BC8DB}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Debug|iPhone.Build.0 = Debug|iPhone
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Release|iPhone.Build.0 = Release|iPhone
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{86764449-7F64-46F3-A4CF-D94F9F06FAC9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RSSReader.Droid\RSSReader.Droid.csproj
+	EndGlobalSection
+EndGlobal
